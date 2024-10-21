@@ -37,14 +37,14 @@
 ---
 
 ### 📝 **Latest Blog Posts**:
-- [Optimizing React Apps with Lazy Loading and Suspense](https://dev.to/novaaalv/optimizing-react-apps)
-- [A Beginner’s Guide to Tailwind CSS](https://dev.to/novaaalv/tailwind-css-guide)
+- [Optimizing React Apps with Lazy Loading and Suspense](https://dev.to/Novaaalv/optimizing-react-apps)
+- [A Beginner’s Guide to Tailwind CSS](https://dev.to/Novaaalv/tailwind-css-guide)
 
-Explore more of my writings on [Dev.to](https://dev.to/novaaalv).
+Explore more of my writings on [Dev.to](https://dev.to/Novaaalv).
 
 ---
 
 ### 🎯 **Let’s Connect**:
-- **Website**: [novaaalv.dev](https://novaaalv.dev)
+- **Website**: [novaaalv.dev](https://Novaaalv.dev)
 - **Twitter**: [@NovaaaLv](https://twitter.com/NovaaaLv)
 - **LinkedIn**: [linkedin.com/in/novaaa](https://linkedin.com/in/novaaa)
