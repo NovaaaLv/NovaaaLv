@@ -88,6 +88,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/NovaaaLv/NovaaaLv/output/snake.svg" alt="Snake animation" />
 
 ###
