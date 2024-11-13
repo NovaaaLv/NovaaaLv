@@ -73,6 +73,8 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="30" alt="sqlite logo"  />
 </div>
 
 ###
@@ -86,6 +88,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NovaaaLv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=NovaaaLv&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NovaaaLv&hide_title=true&hide_rank=true&show_icons=false&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
 </div>
 
 ###
